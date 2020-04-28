@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0.0",
+  "info": {
+    "title": "ACA Toolkit Custom Inputs",
+    "id": {
+      "group": null,
+      "name": "TA-aca-toolkit-custom-inputs",
+      "version": "1.0.0"
+    },
+    "author": [
+      {
+        "name": "Hugh Rayner",
+        "email": null,
+        "company": null
+      }
+    ],
+    "releaseDate": null,
+    "description": "A collection of custom inputs to gain insight into ACA Engine and your smart IoT environment. Prerequisite for the ACA Toolkit app.",
+    "classification": {
+      "intendedAudience": null,
+      "categories": [],
+      "developmentStatus": null
+    },
+    "commonInformationModels": null,
+    "license": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "privacyPolicy": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "releaseNotes": {
+      "name": null,
+      "text": null,
+      "uri": null
+    }
+  },
+  "dependencies": {
+  },
+  "tasks": [],
+  "inputGroups": {
+  },
+  "incompatibleApps": {
+  },
+  "platformRequirements": {
+    "splunk": {
+      "Enterprise": "*"
+    }
+  }
+}
